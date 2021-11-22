@@ -9,6 +9,13 @@ h1 {
     color: white;
 }
 
+h3 {
+    text-align: center;
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+
 .typography-section {
     border: 1px solid white;
     background-color: blue;
