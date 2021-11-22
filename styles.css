@@ -6,13 +6,9 @@ h1 {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 50px;
     text-align: center;
-    color: darkblue;
+    color: white;
 }
 
-ol {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: lime;
-}
 .typography-section {
     border: 1px solid white;
     background-color: blue;
@@ -34,4 +30,9 @@ ol {
     width: 275px;
     height: 275px;
     padding: 4px;
+}
+
+.typography-caption {
+    color: white;
+    
 }
