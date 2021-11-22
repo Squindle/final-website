@@ -35,11 +35,12 @@ h1 {
 .typography-caption {
     color: white;
     text-align: justify;
-
+    
 }
 
 .typo-examples-under {
     align-items: center;
     border: 1px solid white;
-    
+    justify-content: space-evenly;
+    flex-wrap: wrap;
 }
