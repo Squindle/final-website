@@ -62,3 +62,10 @@ h3 {
     justify-content: space-evenly;
     flex-wrap: wrap;
 }
+
+.carp-examples {
+    border: 1px solid white;
+    width: 275px;
+    height: 275px;
+    padding: 4px;
+}
