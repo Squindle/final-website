@@ -8,3 +8,8 @@ h1 {
     text-align: center;
     color: darkblue;
 }
+
+ol {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: lime;
+}
