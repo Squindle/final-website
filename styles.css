@@ -17,3 +17,7 @@ ol {
     border: 1px solid white;
     background-color: blue;
 }
+
+.caption {
+    font-size: 15px;
+}
