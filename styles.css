@@ -82,13 +82,6 @@ h3 {
       text-align: justify;
   }
 
-  .typo-img-with-text {
-    text-align: justify;
-    width: 200;
+.figure{
     color: white;
-}
-
-.typo-img-with-text img {
-    display: block;
-    margin: 0 auto;
 }
