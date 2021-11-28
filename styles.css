@@ -85,6 +85,7 @@ h3 {
   .typo-img-with-text {
     text-align: justify;
     width: 200;
+    color: white;
 }
 
 .typo-img-with-text img {
