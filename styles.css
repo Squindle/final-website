@@ -95,4 +95,5 @@ figcaption{
 
 figure img{
     vertical-align: top;
+    align-items: flex-start;
 }
