@@ -76,3 +76,7 @@ h3 {
     padding: 0;
     display: inline-block;
   }
+
+  .navigation{
+      display:flex;
+  }
