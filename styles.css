@@ -85,7 +85,8 @@ h3 {
 
   .container{
       display: flex;
-      margin: 0 auto;
+     justify-content: space-evenly;
+     flex-wrap: wrap;
   }
 
 figcaption{
@@ -95,5 +96,5 @@ figcaption{
 
 figure img{
     vertical-align: top;
-    align-items: flex-start;
+    
 }
