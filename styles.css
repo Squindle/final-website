@@ -83,7 +83,7 @@ h3 {
   }
 
 
-  .container{
+  figure{
       display: flex;
      justify-content: space-evenly;
      flex-wrap: wrap;
@@ -91,10 +91,5 @@ h3 {
 
 figcaption{
     color: white;
-    
-}
-
-figure img{
-    vertical-align: top;
     
 }
