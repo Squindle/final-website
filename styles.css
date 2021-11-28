@@ -82,6 +82,11 @@ h3 {
       text-align: justify;
   }
 
-.figcaption{
-    color: white;
+.typo-images{
+    display: flex;
+    justify-content: center;
+}
+.typo-images img {
+    margin-left: 5px;
+    margin-right: 5px;
 }
