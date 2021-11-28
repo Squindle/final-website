@@ -74,11 +74,7 @@ h3 {
     list-style-type: none;
     margin: 0;
     padding: 0;
-    display: inline-block;
-  }
-
-  .navigation{
-      display:flex;
+    display: flex;
   }
 
   .CARP-Caption{
