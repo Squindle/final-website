@@ -95,7 +95,7 @@ figcaption{
     
 }
 ul{
-   
+   justify-content: space-evenly;
     display: inline;
 }
 li{
