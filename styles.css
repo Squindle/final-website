@@ -93,4 +93,9 @@ h3 {
 
 figcaption{
     color: white;
+    text-align: center;
+}
+
+figure img{
+    vertical-align: top;
 }
