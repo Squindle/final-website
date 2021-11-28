@@ -69,3 +69,9 @@ h3 {
     height: 275px;
     padding: 4px;
 }
+
+.ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
