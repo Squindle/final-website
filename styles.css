@@ -82,18 +82,15 @@ h3 {
       text-align: justify;
   }
 
-.typo-images{
-    display: flex;
-    justify-content: center;
-}
-.typo-images img {
-    margin-left: 5px;
-    margin-right: 5px;
-}
+
+  .container{
+      display: flex;
+      margin: 0 auto;
+  }
 
 figcaption{
     color: white;
-    text-align: center;
+    
 }
 
 figure img{
