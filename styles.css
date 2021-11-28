@@ -81,3 +81,13 @@ h3 {
       color: white;
       text-align: justify;
   }
+
+  .typo-img-with-text {
+    text-align: justify;
+    width: 200;
+}
+
+.typo-img-with-text img {
+    display: block;
+    margin: 0 auto;
+}
