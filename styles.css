@@ -93,6 +93,7 @@ h3 {
 figcaption{
     color: white;
     text-align: center;
+    flex-wrap: wrap;
     
 }
 ul{
@@ -102,3 +103,34 @@ ul{
 li{
     float: left;
 }
+
+.typography-para{
+    text-align: center;
+    border: 1px solid white;
+    background-color: dodgerblue;
+}
+
+.container4{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    background-color: dodgerblue;
+    border: 1px solid white;
+    width: auto;
+   
+    height: 500px;
+    
+}
+h2{
+    text-align: center;
+    color: white;
+}
+
+.p1{
+    color: white;
+    text-align: left;
+    
+}
+
+
+
