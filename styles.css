@@ -99,9 +99,15 @@ figcaption{
 ul{
    justify-content: space-evenly;
     display: inline;
+    text-align: center;
+    font-size: 30px;
+    background-color: white;
+    
 }
 li{
     float: left;
+    justify-content: space-evenly;
+    
 }
 
 .typography-para{
@@ -117,6 +123,7 @@ li{
     background-color: dodgerblue;
     border: 1px solid white;
     width: auto;
+    
    
     
     
@@ -143,3 +150,30 @@ h4{
     color: white;
 }
 
+.container3{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    background-color: dodgerblue;
+    border: 1px solid white;
+    width: auto;
+    height: 600px;
+}
+
+.container5{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    background-color: dodgerblue;
+    border: 1px solid white;
+    width: auto;
+    height: 600px;
+}
+
+header{
+    float: right;
+    font-size: 30px;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
