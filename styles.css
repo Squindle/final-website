@@ -219,11 +219,14 @@ header{
 }
 
 .container8{
-    display: flex;
     justify-content: space-evenly;
-    flex-wrap: wrap;
     background-color: dodgerblue;
     border: 1px solid white;
     width: auto;
     height: auto;
+    align-items: center;
+    text-align: center;
 }
+
+
+
